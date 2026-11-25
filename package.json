@@ -1,4 +1,5 @@
 {
+  "license": "Apache-2.0",
   "name": "ada-expenses-demo",
   "private": true,
   "version": "1.0.0",

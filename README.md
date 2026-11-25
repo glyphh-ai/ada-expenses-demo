@@ -1,3 +1,5 @@
+> **Moved.** This repository is archived. It now lives, with its full history, in [glyphh-ai/glyphh](https://github.com/glyphh-ai/glyphh/tree/main/demos/expenses) as `demos/expenses/`. Ada is a Glyphh Labs project and is no longer a hosted service: https://glyphh.ai
+
 # Ada, live: expense approvals
 
 A standalone demo for the launch video. Ada decides expense claims from 40 past decisions, says when she isn't
